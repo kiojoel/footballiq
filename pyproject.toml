@@ -31,5 +31,5 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://homepage-url.com"
+Homepage = "https://github.com/kiojoel/footballiq"
 Repository = "https://github.com/kiojoel/footballiq"
