@@ -32,4 +32,4 @@ dev = [
 
 [project.urls]
 Homepage = "https://homepage-url.com"
-Repository = "https://github.com/username/footballiq"
+Repository = "https://github.com/kiojoel/footballiq"
