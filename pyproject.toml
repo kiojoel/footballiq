@@ -27,9 +27,17 @@ ml = [
 
 dev = [
     "pytest>=7.0",
-    "hypothesis>=6.0"
+    "hypothesis>=6.0",
+    "ruff>=0.4"
 ]
 
 [project.urls]
 Homepage = "https://github.com/kiojoel/footballiq"
 Repository = "https://github.com/kiojoel/footballiq"
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
